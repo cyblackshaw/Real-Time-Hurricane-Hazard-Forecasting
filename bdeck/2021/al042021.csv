@@ -1,8 +1,0 @@
-,Basin,StormNum,WarningTime,TechNum,Model,ForecastPd [hrs],Lat,Lon,Vmax [kts],Pmin [mb],StormType,WindIntensity,WindCode,Rad1 [nm],Rad2 [nm],Rad3 [nm],Rad4 [nm],LastClosedIsobarPressure [mb],LastClosedIsobarRadius [nm],MaxWindRadius [nm],Gusts [kts],EyeDiameter [nm],SubregionCode,MaxSeas [ft],ForecasterInitials,StormDir [deg],Vstorm [kts],StormName,SystemDepth,WaveHeight [ft],SeasCode,Seas1 [nm],Seas2 [nm],Seas3 [nm],Seas4 [nm],UserDefined1,UserData1,UserDefined2,UserData2,UserDefined3,UserData3,UserDefined4,UserData4,UserDefined5,UserData5
-0,AL,4, 2021062718,   , BEST,0, 298N,  728W,30,1013, TD,0,    ,0,0,0,0,1018,120,40,40,0,   L,0,    ,0,0,     INVEST, M,0,    ,0,0,0,0, genesis-num,9, ,,,,,,,
-1,AL,4, 2021062800,   , BEST,0, 301N,  745W,30,1013, TD,0,    ,0,0,0,0,1017,120,40,40,0,   L,0,    ,0,0,     INVEST, M,0,    ,0,0,0,0, genesis-num,9, ,,,,,,,
-2,AL,4, 2021062806,   , BEST,0, 307N,  761W,35,1011, TS,34, NEQ,40,0,0,30,1017,120,40,40,0,   L,0,    ,0,0,     INVEST, M,0,    ,0,0,0,0, genesis-num,9, ,,,,,,,
-3,AL,4, 2021062812,   , BEST,0, 315N,  776W,35,1011, TS,34, NEQ,40,0,30,30,1017,120,30,40,0,   L,0,    ,0,0,       FOUR, M,0,    ,0,0,0,0, genesis-num,9, TRANSITIONED, alA62021 to al042021, ,,,,,
-4,AL,4, 2021062818,   , BEST,0, 320N,  795W,40,1009, TS,34, NEQ,40,0,30,30,1019,120,30,0,0,   L,0,    ,0,0,      DANNY, M,0,    ,0,0,0,0, genesis-num,9, ,,,,,,,
-5,AL,4, 2021062823, 20, BEST,0, 323N,  805W,35,1010, TS,34, NEQ,40,0,0,0,1019,120,30,0,0,   L,0,    ,0,0,      DANNY,  ,0,    ,0,0,0,0, genesis-num,9, ,,,,,,,
-6,AL,4, 2021062900,   , BEST,0, 324N,  807W,30,1011, TD,0,    ,0,0,0,0,1019,120,30,45,0,   L,0,    ,0,0,      DANNY, M,0,    ,0,0,0,0, genesis-num,9, ,,,,,,,

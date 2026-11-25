@@ -1,7 +1,0 @@
-,Basin,StormNum,WarningTime,TechNum,Model,ForecastPd [hrs],Lat,Lon,Vmax [kts],Pmin [mb],StormType,WindIntensity,WindCode,Rad1 [nm],Rad2 [nm],Rad3 [nm],Rad4 [nm],LastClosedIsobarPressure [mb],LastClosedIsobarRadius [nm],MaxWindRadius [nm],Gusts [kts],EyeDiameter [nm],SubregionCode,MaxSeas [ft],ForecasterInitials,StormDir [deg],Vstorm [kts],StormName,SystemDepth,WaveHeight [ft],SeasCode,Seas1 [nm],Seas2 [nm],Seas3 [nm],Seas4 [nm],UserDefined1,UserData1,UserDefined2,UserData2,UserDefined3,UserData3,UserDefined4,UserData4,UserDefined5,UserData5
-0,AL,3, 2022070118,   , BEST,0, 318N,  805W,30,1014, TD,0,    ,0,0,0,0,1018,120,50,0,0,   L,0,    ,0,0,     INVEST, S,0,    ,0,0,0,0, genesis-num,12, SPAWNINVEST, al732022 to al962022, ,,,,,
-1,AL,3, 2022070123, 30, BEST,0, 324N,  805W,35,1011, TS,34, NEQ,40,60,0,0,1018,120,50,0,0,   L,0,    ,0,0,     INVEST,  ,0,    ,0,0,0,0, genesis-num,12, ,,,,,,,
-2,AL,3, 2022070200,   , BEST,0, 325N,  804W,35,1011, TS,34, NEQ,40,60,0,0,1016,120,50,0,0,   L,0,    ,0,0,     INVEST, S,0,    ,0,0,0,0, genesis-num,12, ,,,,,,,
-3,AL,3, 2022070206,   , BEST,0, 330N,  799W,35,1011, TS,34, NEQ,40,60,0,0,1017,110,50,45,0,   L,0,    ,0,0,      COLIN, S,0,    ,0,0,0,0, genesis-num,12, TRANSITIONED, alA62022 to al032022, ,,,,,
-4,AL,3, 2022070212,   , BEST,0, 334N,  794W,35,1011, TS,34, NEQ,50,70,0,0,1017,100,50,45,0,   L,0,    ,0,0,      COLIN, S,0,    ,0,0,0,0, genesis-num,12, ,,,,,,,
-5,AL,3, 2022070218,   , BEST,0, 338N,  789W,30,1015, TD,0,    ,0,0,0,0,1017,100,50,45,0,   L,0,    ,0,0,      COLIN, S,0,    ,0,0,0,0, genesis-num,12, ,,,,,,,

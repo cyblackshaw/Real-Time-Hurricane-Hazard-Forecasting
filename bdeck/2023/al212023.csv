@@ -1,7 +1,0 @@
-,Basin,StormNum,WarningTime,TechNum,Model,ForecastPd [hrs],Lat,Lon,Vmax [kts],Pmin [mb],StormType,WindIntensity,WindCode,Rad1 [nm],Rad2 [nm],Rad3 [nm],Rad4 [nm],LastClosedIsobarPressure [mb],LastClosedIsobarRadius [nm],MaxWindRadius [nm],Gusts [kts],EyeDiameter [nm],SubregionCode,MaxSeas [ft],ForecasterInitials,StormDir [deg],Vstorm [kts],StormName,SystemDepth,WaveHeight [ft],SeasCode,Seas1 [nm],Seas2 [nm],Seas3 [nm],Seas4 [nm],UserDefined1,UserData1,UserDefined2,UserData2,UserDefined3,UserData3,UserDefined4,UserData4,UserDefined5,UserData5
-0,AL,21, 2023102312,   , BEST,0, 114N,  826W,25,1007, TD,0,    ,0,0,0,0,1009,180,80,0,0,   L,0,    ,0,0,     INVEST, S,0,    ,0,0,0,0, genesis-num,41, ,,,,,,,
-1,AL,21, 2023102318,   , BEST,0, 115N,  832W,25,1007, TD,0,    ,0,0,0,0,1009,150,60,0,0,   L,0,    ,0,0, TWENTY-ONE, S,0,    ,0,0,0,0, genesis-num,41, TRANSITIONED, alD52023 to al212023, ,,,,,
-2,AL,21, 2023102400,   , BEST,0, 122N,  834W,25,1007, TD,0,    ,0,0,0,0,1009,150,60,35,0,   L,0,    ,0,0, TWENTY-ONE, S,0,    ,0,0,0,0, genesis-num,41, ,,,,,,,
-3,AL,21, 2023102401, 30, BEST,0, 124N,  835W,25,1007, TD,0,    ,0,0,0,0,1009,150,60,0,0,   L,0,    ,0,0, TWENTY-ONE,  ,0,    ,0,0,0,0, genesis-num,41, ,,,,,,,
-4,AL,21, 2023102406,   , BEST,0, 130N,  838W,25,1007, TD,0,    ,0,0,0,0,1009,150,60,35,0,   L,0,    ,0,0, TWENTY-ONE, S,0,    ,0,0,0,0, genesis-num,41, ,,,,,,,
-5,AL,21, 2023102412,   , BEST,0, 135N,  844W,20,1007, LO,0,    ,0,0,0,0,1009,150,60,30,0,   L,0,    ,0,0, TWENTY-ONE, S,0,    ,0,0,0,0, genesis-num,41, ,,,,,,,
