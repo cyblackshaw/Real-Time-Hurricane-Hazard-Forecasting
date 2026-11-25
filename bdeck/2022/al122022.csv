@@ -1,0 +1,11 @@
+,Basin,StormNum,WarningTime,TechNum,Model,ForecastPd [hrs],Lat,Lon,Vmax [kts],Pmin [mb],StormType,WindIntensity,WindCode,Rad1 [nm],Rad2 [nm],Rad3 [nm],Rad4 [nm],LastClosedIsobarPressure [mb],LastClosedIsobarRadius [nm],MaxWindRadius [nm],Gusts [kts],EyeDiameter [nm],SubregionCode,MaxSeas [ft],ForecasterInitials,StormDir [deg],Vstorm [kts],StormName,SystemDepth,WaveHeight [ft],SeasCode,Seas1 [nm],Seas2 [nm],Seas3 [nm],Seas4 [nm],UserDefined1,UserData1,UserDefined2,UserData2,UserDefined3,UserData3,UserDefined4,UserData4,UserDefined5,UserData5
+0,AL,12, 2022100412,   , BEST,0, 136N,  295W,30,1007, TD,0,    ,0,0,0,0,1011,100,40,0,0,   L,0,    ,0,0,     INVEST, M,0,    ,0,0,0,0, genesis-num,32, ,,,,,,,
+1,AL,12, 2022100418,   , BEST,0, 142N,  302W,30,1007, TD,0,    ,0,0,0,0,1011,100,40,40,0,   L,0,    ,0,0,     TWELVE, M,0,    ,0,0,0,0, genesis-num,32, TRANSITIONED, alC22022 to al122022, ,,,,,
+2,AL,12, 2022100500,   , BEST,0, 146N,  305W,30,1007, TD,0,    ,0,0,0,0,1011,120,50,40,0,   L,0,    ,0,0,     TWELVE, M,0,    ,0,0,0,0, genesis-num,32, ,,,,,,,
+3,AL,12, 2022100506,   , BEST,0, 150N,  309W,30,1007, TD,0,    ,0,0,0,0,1011,120,60,40,0,   L,0,    ,0,0,     TWELVE, M,0,    ,0,0,0,0, genesis-num,32, ,,,,,,,
+4,AL,12, 2022100512,   , BEST,0, 153N,  315W,30,1007, TD,0,    ,0,0,0,0,1011,120,60,40,0,   L,0,    ,0,0,     TWELVE, M,0,    ,0,0,0,0, genesis-num,32, ,,,,,,,
+5,AL,12, 2022100518,   , BEST,0, 160N,  319W,30,1007, TD,0,    ,0,0,0,0,1011,120,60,40,0,   L,0,    ,0,0,     TWELVE, M,0,    ,0,0,0,0, genesis-num,32, ,,,,,,,
+6,AL,12, 2022100600,   , BEST,0, 170N,  321W,30,1007, TD,0,    ,0,0,0,0,1012,90,60,40,0,   L,0,    ,0,0,     TWELVE, M,0,    ,0,0,0,0, genesis-num,32, ,,,,,,,
+7,AL,12, 2022100606,   , BEST,0, 177N,  328W,30,1007, TD,0,    ,0,0,0,0,1012,80,60,40,0,   L,0,    ,0,0,     TWELVE, M,0,    ,0,0,0,0, genesis-num,32, ,,,,,,,
+8,AL,12, 2022100612,   , BEST,0, 181N,  339W,30,1008, TD,0,    ,0,0,0,0,1012,80,60,40,0,   L,0,    ,0,0,     TWELVE, M,0,    ,0,0,0,0, genesis-num,32, ,,,,,,,
+9,AL,12, 2022100618,   , BEST,0, 187N,  350W,30,1009, TD,0,    ,0,0,0,0,1012,80,60,35,0,   L,0,    ,0,0,     TWELVE, M,0,    ,0,0,0,0, genesis-num,32, ,,,,,,,

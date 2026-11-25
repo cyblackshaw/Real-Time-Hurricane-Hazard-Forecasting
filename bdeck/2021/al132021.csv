@@ -1,0 +1,12 @@
+,Basin,StormNum,WarningTime,TechNum,Model,ForecastPd [hrs],Lat,Lon,Vmax [kts],Pmin [mb],StormType,WindIntensity,WindCode,Rad1 [nm],Rad2 [nm],Rad3 [nm],Rad4 [nm],LastClosedIsobarPressure [mb],LastClosedIsobarRadius [nm],MaxWindRadius [nm],Gusts [kts],EyeDiameter [nm],SubregionCode,MaxSeas [ft],ForecasterInitials,StormDir [deg],Vstorm [kts],StormName,SystemDepth,WaveHeight [ft],SeasCode,Seas1 [nm],Seas2 [nm],Seas3 [nm],Seas4 [nm],UserDefined1,UserData1,UserDefined2,UserData2,UserDefined3,UserData3,UserDefined4,UserData4,UserDefined5,UserData5
+0,AL,13, 2021090818,   , BEST,0, 284N,  868W,35,1006, TS,34, NEQ,0,30,0,0,1012,90,30,0,0,   L,0,    ,0,0,      MINDY, M,0,    ,0,0,0,0, genesis-num,27, TRANSITIONED, alA12021 to al132021, ,,,,,
+1,AL,13, 2021090900,   , BEST,0, 295N,  854W,45,1001, TS,34, NEQ,0,40,0,0,1011,90,30,50,0,   L,0,    ,0,0,      MINDY, M,0,    ,0,0,0,0, genesis-num,27, ,,,,,,,
+2,AL,13, 2021090901, 15, BEST,0, 297N,  851W,50,1000, TS,34, NEQ,0,40,0,0,1011,90,30,0,0,   L,0,    ,0,0,      MINDY,  ,0,    ,0,0,0,0, genesis-num,27, ,,,,,,,
+3,AL,13, 2021090901, 15, BEST,0, 297N,  851W,50,1000, TS,50, NEQ,0,30,0,0,1011,90,30,0,0,   L,0,    ,0,0,      MINDY,  ,0,    ,0,0,0,0, genesis-num,27, ,,,,,,,
+4,AL,13, 2021090906,   , BEST,0, 305N,  839W,35,1001, TS,34, NEQ,0,40,0,0,1010,90,30,45,0,   L,0,    ,0,0,      MINDY, M,12, NEQ,0,40,0,0, genesis-num,27, ,,,,,,,
+5,AL,13, 2021090912,   , BEST,0, 312N,  818W,30,1005, TD,0,    ,0,0,0,0,1010,80,40,40,0,   L,0,    ,0,0,      MINDY, M,0,    ,0,0,0,0, genesis-num,27, ,,,,,,,
+6,AL,13, 2021090918,   , BEST,0, 317N,  794W,30,1005, TD,0,    ,0,0,0,0,1009,80,40,40,0,   L,0,    ,0,0,      MINDY, S,0,    ,0,0,0,0, genesis-num,27, ,,,,,,,
+7,AL,13, 2021091000,   , BEST,0, 321N,  768W,30,1005, LO,0,    ,0,0,0,0,1009,80,40,40,0,   L,0,    ,0,0,      MINDY, S,0,    ,0,0,0,0, genesis-num,27, ,,,,,,,
+8,AL,13, 2021091006,   , BEST,0, 326N,  740W,30,1005, LO,0,    ,0,0,0,0,1009,80,40,0,0,   L,0,    ,0,0,      MINDY,  ,0,    ,0,0,0,0, genesis-num,27, ,,,,,,,
+9,AL,13, 2021091012,   , BEST,0, 332N,  718W,30,1005, LO,0,    ,0,0,0,0,1009,80,40,0,0,   L,0,    ,0,0,      MINDY,  ,0,    ,0,0,0,0, genesis-num,27, ,,,,,,,
+10,AL,13, 2021091018,   , BEST,0, 337N,  698W,30,1006, LO,0,    ,0,0,0,0,1009,80,40,0,0,   L,0,    ,0,0,      MINDY,  ,0,    ,0,0,0,0, genesis-num,27, ,,,,,,,

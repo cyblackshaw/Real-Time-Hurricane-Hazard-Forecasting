@@ -1,0 +1,11 @@
+,Basin,StormNum,WarningTime,TechNum,Model,ForecastPd [hrs],Lat,Lon,Vmax [kts],Pmin [mb],StormType,WindIntensity,WindCode,Rad1 [nm],Rad2 [nm],Rad3 [nm],Rad4 [nm],LastClosedIsobarPressure [mb],LastClosedIsobarRadius [nm],MaxWindRadius [nm],Gusts [kts],EyeDiameter [nm],SubregionCode,MaxSeas [ft],ForecasterInitials,StormDir [deg],Vstorm [kts],StormName,SystemDepth,WaveHeight [ft],SeasCode,Seas1 [nm],Seas2 [nm],Seas3 [nm],Seas4 [nm],UserDefined1,UserData1,UserDefined2,UserData2,UserDefined3,UserData3,UserDefined4,UserData4,UserDefined5,UserData5
+0,AL,19, 2021092406,   , BEST,0, 314N,  620W,30,1011, SD,34, NEQ,0,0,0,0,1014,150,80,0,0,   L,0,    ,0,0,     INVEST, M,0,    ,0,0,0,0, genesis-num,41, ,,,,,,,
+1,AL,19, 2021092412,   , BEST,0, 328N,  629W,35,1010, SS,34, NEQ,80,0,0,80,1014,150,80,40,0,   L,0,    ,0,0,     INVEST, M,0,    ,0,0,0,0, genesis-num,41, ,,,,,,,
+2,AL,19, 2021092418,   , BEST,0, 336N,  641W,40,1008, SS,34, NEQ,80,0,0,80,1014,150,80,0,0,   L,0,    ,0,0,     INVEST,  ,0,    ,0,0,0,0, genesis-num,41, ,,,,,,,
+3,AL,19, 2021092500,   , BEST,0, 341N,  650W,40,1008, SS,34, NEQ,100,0,0,0,1014,150,80,50,0,   L,0,    ,0,0,     TERESA, M,12, NEQ,180,150,0,60, genesis-num,41, ,,,,,,,
+4,AL,19, 2021092506,   , BEST,0, 343N,  655W,35,1009, SS,34, NEQ,120,0,0,0,1014,160,90,45,0,   L,0,    ,0,0,     TERESA, S,12, NEQ,180,120,0,90, genesis-num,41, ,,,,,,,
+5,AL,19, 2021092512,   , BEST,0, 343N,  652W,30,1010, SD,34, NEQ,0,0,0,0,1014,170,90,45,0,   L,0,    ,0,0,     TERESA, S,12, NEQ,240,120,0,90, genesis-num,41, ,,,,,,,
+6,AL,19, 2021092518,   , BEST,0, 343N,  645W,30,1010, LO,34, NEQ,0,0,0,0,1013,180,100,40,0,   L,0,    ,0,0,     TERESA, S,12, NEQ,240,0,0,0, genesis-num,41, ,,,,,,,
+7,AL,19, 2021092600,   , BEST,0, 347N,  639W,30,1010, LO,34, NEQ,0,0,0,0,1013,180,100,0,0,   L,0,    ,0,0,     TERESA,  ,0,    ,0,0,0,0, genesis-num,41, ,,,,,,,
+8,AL,19, 2021092606,   , BEST,0, 352N,  632W,30,1010, LO,34, NEQ,0,0,0,0,1013,180,100,0,0,   L,0,    ,0,0,     TERESA,  ,0,    ,0,0,0,0, genesis-num,41, ,,,,,,,
+9,AL,19, 2021092612,   , BEST,0, 356N,  618W,25,1011, LO,34, NEQ,0,0,0,0,1013,180,100,0,0,   L,0,    ,0,0,     TERESA,  ,0,    ,0,0,0,0, genesis-num,41, ,,,,,,,
