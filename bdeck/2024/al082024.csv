@@ -1,0 +1,11 @@
+,Basin,StormNum,WarningTime,TechNum,Model,ForecastPd [hrs],Lat,Lon,Vmax [kts],Pmin [mb],StormType,WindIntensity,WindCode,Rad1 [nm],Rad2 [nm],Rad3 [nm],Rad4 [nm],LastClosedIsobarPressure [mb],LastClosedIsobarRadius [nm],MaxWindRadius [nm],Gusts [kts],EyeDiameter [nm],SubregionCode,MaxSeas [ft],ForecasterInitials,StormDir [deg],Vstorm [kts],StormName,SystemDepth,WaveHeight [ft],SeasCode,Seas1 [nm],Seas2 [nm],Seas3 [nm],Seas4 [nm],UserDefined1,UserData1,UserDefined2,UserData2,UserDefined3,UserData3,UserDefined4,UserData4,UserDefined5,UserData5
+0,AL,8, 2024091500,   , BEST,0, 307N,  761W,35,1008, EX,34, NEQ,130,0,0,130,1010,150,120,0,0,   L,0,    ,0,0,     INVEST, S, ,,,,,,,,,,,,,,,
+1,AL,8, 2024091506,   , BEST,0, 308N,  767W,35,1008, EX,34, NEQ,130,0,0,130,1010,150,120,45,0,   L,0,    ,0,0,     INVEST, S, ,,,,,,,,,,,,,,,
+2,AL,8, 2024091512,   , BEST,0, 313N,  773W,40,1007, EX,34, NEQ,150,0,0,90,1012,150,120,45,0,   L,0,    ,0,0,     INVEST, S, ,,,,,,,,,,,,,,,
+3,AL,8, 2024091518,   , BEST,0, 318N,  778W,45,1006, EX,34, NEQ,150,0,0,90,1012,150,70,45,0,   L,0,    ,0,0,      EIGHT, S,  0,    ,0.0,0.0,0.0,0.0, TRANSITIONED, alB52024 to al082024, ,,,,,,,
+4,AL,8, 2024091600,   , BEST,0, 321N,  779W,45,1005, EX,34, NEQ,150,50,0,90,1012,150,60,50,0,   L,0,    ,0,0,      EIGHT, S, 12, NEQ,250.0,60.0,120.0,90.0, ,,,,,,,,,
+5,AL,8, 2024091606,   , BEST,0, 323N,  780W,45,1005, EX,34, NEQ,150,50,60,90,1011,120,60,50,0,   L,0,    ,0,0,      EIGHT, S, 12, NEQ,250.0,90.0,120.0,70.0, ,,,,,,,,,
+6,AL,8, 2024091612,   , BEST,0, 328N,  782W,50,1004, EX,34, NEQ,150,50,60,70,1011,120,60,55,0,   L,0,    ,0,0,      EIGHT, M, 12, NEQ,240.0,120.0,120.0,60.0, ,,,,,,,,,
+7,AL,8, 2024091612,   , BEST,0, 328N,  782W,50,1004, EX,50, NEQ,60,0,0,0,1011,120,60,55,0,   L,0,    ,0,0,      EIGHT, M, 12, NEQ,240.0,120.0,120.0,60.0, ,,,,,,,,,
+8,AL,8, 2024091618,   , BEST,0, 335N,  785W,40,1006, EX,34, NEQ,100,0,0,0,1011,120,60,45,0,   L,0,    ,0,0,      EIGHT, M, ,,,,,,,,,,,,,,,
+9,AL,8, 2024091700,   , BEST,0, 342N,  792W,25,1008, EX,0,    ,0,0,0,0,1011,120,60,0,0,   L,0,    ,0,0,      EIGHT,  , ,,,,,,,,,,,,,,,
